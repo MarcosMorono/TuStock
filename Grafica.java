@@ -174,7 +174,7 @@ public class Grafica extends JFrame {
         titulo.setForeground(Color.WHITE);
 
         //configuracion de etiquetas en p2
-        copyrigth.setBounds(265, 690, 500, 60);
+        copyrigth.setBounds(265, 650, 500, 60);
         copyrigth.setFont(new Font("comic sans", 3, 22));
         copyrigth.setForeground(Color.BLACK);
 
